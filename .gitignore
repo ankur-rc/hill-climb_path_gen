@@ -99,3 +99,13 @@ ENV/
 
 # mypy
 .mypy_cache/
+
+
+implementation/
+report/
+survey/
+quick-look/
+*.docx
+*.ipynb
+*.zip
+*.pptx
